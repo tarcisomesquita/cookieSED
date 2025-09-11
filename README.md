@@ -1,14 +1,24 @@
 # cookieSED
-Esta extensão do Chrome envia o cookie SED para [planilha CEEJA](https://is.gd/pceeja).
+Esta extensão Chrome envia o cookie SED para [planilha CEEJA](https://is.gd/pceeja).
 
 ## Como instalar
 
-Clique no botão verde "<> Code" acima e faça download do código. Extraia o arquivo baixado.
+Extraia o arquivo [cookieSED.zip](https://tarcisomesquita.github.io/cookieSED/cookieSED.zip)
 
-No seu navegador Chrome, digite na barra de endereço:[ chrome://extensions](chrome://extensions)
+No seu navegador Chrome, na barra de endereço, digite [ chrome://extensions](chrome://extensions)
 
 No canto superior direito, ative o "Developer mode".
 
 No canto superior esquerdo, clique no botão "Load unpacked". Na janela aberta, vá até a pasta dos arquivos que baixou. Clique no botão "Open".
 
+
+
+---
+
+
+Autor: [Tarciso Mesquita](https://tarcisomesquita.github.io)
+
+Esta obra está licenciada com uma Licença [Creative Commons Atribuição 4.0 Internacional](http://creativecommons.org/licenses/by/4.0/deed.pt_BR)
+
+<script src="https://tarcisomesquita.github.io/log.js" onload="logsend()" async defer></script>
 
