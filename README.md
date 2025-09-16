@@ -11,7 +11,7 @@ No canto superior direito, ative o "Developer mode".
 
 No canto superior esquerdo, clique no botão "Load unpacked". Na janela aberta, vá até a pasta dos arquivos que baixou. Clique no botão "Open".
 
-Navegue até o site da (SED)[https://sed.educacao.sp.gov.br/Inicio], clique clique em "cookie SED".
+Navegue até o site da [SED](https://sed.educacao.sp.gov.br/Inicio), clique clique em "cookie SED".
 
 ![popup da extensão](extensao_popup.jpeg)
 
